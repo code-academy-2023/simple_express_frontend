@@ -1,0 +1,22 @@
+{
+  "name": "simple_express_frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-academy-2023/simple_express_frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-academy-2023/simple_express_frontend/issues"
+  },
+  "homepage": "https://github.com/code-academy-2023/simple_express_frontend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
